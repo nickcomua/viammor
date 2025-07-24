@@ -1,0 +1,8 @@
+packages:
+  - packages/*
+  - packages/react-three-fiber/packages/*
+
+onlyBuiltDependencies:
+  - '@clerk/shared'
+  - '@tailwindcss/oxide'
+  - esbuild

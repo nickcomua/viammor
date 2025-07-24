@@ -1,0 +1,12 @@
+[submodule "viammor-back"]
+	path = packages/viammor-back
+	url = https://github.com/nickcomua/viammor-back
+[submodule "drei"]
+	path = packages/drei
+	url = https://github.com/nickcomua/drei
+[submodule "react-three-fiber"]
+	path = packages/react-three-fiber
+	url = https://github.com/nickcomua/react-three-fiber
+[submodule "viammor-web"]
+	path = packages/viammor-web
+	url = https://github.com/nickcomua/viammor-web
