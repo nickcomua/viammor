@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "name": "viammor-back",
+            "path": "packages/viammor-back"
+        },
+        {
+            "name": "viammor-web",
+            "path": "packages/viammor-web"
+        }
+    ]
+}

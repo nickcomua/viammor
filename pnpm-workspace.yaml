@@ -1,6 +1,9 @@
 packages:
   - packages/*
+  - packages/drei/dist
   - packages/react-three-fiber/packages/*
+
+linkWorkspacePackages: true
 
 onlyBuiltDependencies:
   - '@clerk/shared'
